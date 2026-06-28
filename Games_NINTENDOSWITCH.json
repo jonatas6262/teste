@@ -1,1 +1,52 @@
-Games_NINTENDOSWITCH
+{
+  "games": [
+    {
+      "codename": "PkmLetsGEve",
+      "content_id": "0100187003a36000",
+      "name": "Pokémon™: Let’s Go, Eevee!",
+      "version": "1.0.0",
+      "type": "Base Game",
+      "release_date": "2018-11-16",
+      "players": 2,
+      "genres": ["Aventura", "RPG", "Multijogador"],
+      "age_rating": 6,
+      "description": "Associe-se ao Eevee para capturar e colecionar Pokémon em uma aventura vibrante no Nintendo Switch."
+    },
+    {
+      "codename": "PkmLetsGEveUpd",
+      "content_id": "0100187003a36800",
+      "name": "Pokémon™: Let’s Go, Eevee! Update",
+      "version": "1.0.2",
+      "type": "Update",
+      "release_date": "2018-11-16",
+      "players": 2,
+      "genres": ["Aventura", "RPG", "Multijogador"],
+      "age_rating": 6,
+      "description": "Atualização que melhora estabilidade e compatibilidade do jogo."
+    },
+    {
+      "codename": "PkmLegArce",
+      "content_id": "01001f5010dfa000",
+      "name": "Pokémon™ Legends: Arceus",
+      "version": "1.0.0",
+      "type": "Base Game",
+      "release_date": "2022-01-28",
+      "players": 1,
+      "genres": ["Ação", "RPG"],
+      "age_rating": 6,
+      "description": "Explore a região de Hisui e construa a primeira Pokédex, desvendando o mistério de Arceus."
+    },
+    {
+      "codename": "PkmLegArceUpd",
+      "content_id": "01001f5010dfa800",
+      "name": "Pokémon™ Legends: Arceus Update",
+      "version": "1.1.1",
+      "type": "Update",
+      "release_date": "2022-01-28",
+      "players": 1,
+      "genres": ["Ação", "RPG"],
+      "age_rating": 6,
+      "description": "Atualização que corrige bugs e adiciona melhorias de desempenho."
+    }
+  ]
+}
