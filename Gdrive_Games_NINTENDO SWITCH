@@ -1,0 +1,17 @@
+{
+  "name": "Games NINTENDO SWITCH",
+  "files": [
+    {
+      "name": "Pokémon Legends Arceus [Base]",
+      "protocol": "gdrive",
+      "id": "1rdEnAVZPbJhpvpwH49B7_wO5JH_fiLRw",
+      "size": 6442450944
+    },
+    {
+      "name": "Pokémon Legends Arceus [Update v262144]",
+      "protocol": "gdrive",
+      "id": "124fyoTC7RGy7rfMkpgpAZwJOZsOpWd-N",
+      "size": 327680000
+    }
+  ]
+}
