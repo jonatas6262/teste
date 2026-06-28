@@ -1,14 +1,23 @@
 {
   "name": "Meu Catálogo",
-  "url": "https://archive.org/download/pkm-leg-arce/",
   "files": [
     {
       "name": "Pokémon Legends Arceus [Base]",
-      "url": "https://archive.org/download/pkm-leg-arce/PkmLegArce%5BBASE%5D%5Bv0%5D.nsp"
+      "url": "https://archive.org/download/pkm-leg-arce/PkmLegArce%5BBASE%5D%5Bv0%5D.nsp",
+      "size": 6144000000,
+      "version": "v0",
+      "description": "Jogo base completo",
+      "titleid": "010018E011D00000",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/Pokemon_Legends_Arceus_cover.jpg"
     },
     {
       "name": "Pokémon Legends Arceus [Update v262144]",
-      "url": "https://archive.org/download/pkm-leg-arce/PkmLegArce%5BUPD%5D%5Bv262144%5D.nsp"
+      "url": "https://archive.org/download/pkm-leg-arce/PkmLegArce%5BUPD%5D%5Bv262144%5D.nsp",
+      "size": 320000000,
+      "version": "v262144",
+      "description": "Atualização oficial",
+      "titleid": "010018E011D00000",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/Pokemon_Legends_Arceus_cover.jpg"
     }
   ]
 }
