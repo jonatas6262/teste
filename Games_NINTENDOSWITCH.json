@@ -6,7 +6,7 @@
       "url": "https://archive.org/download/pokemon-legends-arceus_202606/Pok%C3%A9mon%20Legends%20Arceus%20%5BBASE%5D%20%5B01001F5010DFA000%5D%20%5Bv0%5D%20%5B6.02GB%5D.nsp"
     },
     {
-      "name": "Pokémon Legends Arceus [Update v262144]",
+      "name": "Pokémon Legends Arceus [UPD v262144]",
       "url": "https://archive.org/download/pokemon-legends-arceus_202606/Pok%C3%A9mon%20Legends%20Arceus%20%5BUPD%5D%20%5B01001F5010DFA800%5D%20%5Bv262144%5D%20%5B88.88MB%5D.nsp"
     },
 	{
@@ -14,7 +14,27 @@
       "url": "https://archive.org/download/pokemon-lets-go-eevee_20260628/Pok%C3%A9mon%20Let%27s%20Go%2C%20Eevee%21%20%5BBASE%5D%20%5B0100187003A36800%5D%20%5Bv0%5D%20%5B4.16GB%5D.nsp"
     },
 	{
-      "name": "Pokemon Let’s Go Eevee [Update v131072]]",
+      "name": "Pokemon Let’s Go Eevee [UPD v131072]]",
+      "url": "https://archive.org/download/pokemon-lets-go-eevee_20260628/Pok%C3%A9mon%20Let%27s%20Go%2C%20Eevee%21%20%5BUPD%5D%20%5B0100187003A36800%5D%20%5Bv131072%5D%20%5B33.91MB%5D.nsp"
+    },
+    {
+      "name": "Horizon Chase Turbo [BASE] [01009EA00B714000] [v0] [878.64MB]",
+      "url": "https://archive.org/download/pokemon-legends-arceus_202606/Pok%C3%A9mon%20Legends%20Arceus%20%5BUPD%5D%20%5B01001F5010DFA800%5D%20%5Bv262144%5D%20%5B88.88MB%5D.nsp"
+    },
+	{
+      "name": "Horizon Chase Turbo [UPD] [01009EA00B714800] [v1572864] [1.00GB]",
+      "url": "https://archive.org/download/pokemon-lets-go-eevee_20260628/Pok%C3%A9mon%20Let%27s%20Go%2C%20Eevee%21%20%5BBASE%5D%20%5B0100187003A36800%5D%20%5Bv0%5D%20%5B4.16GB%5D.nsp"
+    },
+	{
+      "name": "Horizon Chase Turbo [DLC] [Rookie Series] [01009EA00B7152BE] [v0][120KB]",
+      "url": "https://archive.org/download/pokemon-lets-go-eevee_20260628/Pok%C3%A9mon%20Let%27s%20Go%2C%20Eevee%21%20%5BUPD%5D%20%5B0100187003A36800%5D%20%5Bv131072%5D%20%5B33.91MB%5D.nsp"
+    },
+	{
+      "name": "Horizon Chase Turbo [DLC] [Senna Forever] [01009EA00B7152BF] [v0] [122KB]",
+      "url": "https://archive.org/download/pokemon-lets-go-eevee_20260628/Pok%C3%A9mon%20Let%27s%20Go%2C%20Eevee%21%20%5BUPD%5D%20%5B0100187003A36800%5D%20%5Bv131072%5D%20%5B33.91MB%5D.nsp"
+    },
+	{
+      "name": "Horizon Chase Turbo [DLC] [Summer Vibes] [01009EA00B7152BD] [v0] [150KB]",
       "url": "https://archive.org/download/pokemon-lets-go-eevee_20260628/Pok%C3%A9mon%20Let%27s%20Go%2C%20Eevee%21%20%5BUPD%5D%20%5B0100187003A36800%5D%20%5Bv131072%5D%20%5B33.91MB%5D.nsp"
     }
   ]
